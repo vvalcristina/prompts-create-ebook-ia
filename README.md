@@ -1,6 +1,3 @@
-<p align="center">
-    <img width="100" src=".assets/banner_delta_lake.png">
-</p>
 
 
 <p align="center">
@@ -12,7 +9,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/vvalcristina/prompts-create-ebook-ia/blob/main/assets/banner_delta_lake.png"
     width="400"  
 />
 </p>
@@ -25,7 +22,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/vvalcristina/prompts-create-ebook-ia/blob/main/outputs/delta_lake_a_nova_esperanca_dos_dados.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
